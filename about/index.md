@@ -3,4 +3,8 @@ layout: page
 type: about
 ---
 
-Sejong University - majoring in Software
+Sungjung Choi
+
+Sejong University
+
+- majoring in Software
