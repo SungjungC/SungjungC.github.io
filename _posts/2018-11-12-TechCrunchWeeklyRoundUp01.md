@@ -1,6 +1,6 @@
 ---
-title: 기사스크랩 -Tech Crunch
-date: 2018-11-08
+title: 기사스크랩 -Tech Crunch 11월 10일
+date: 2018-11-12
 categories:
 - IT news
 tags:
@@ -10,7 +10,7 @@ tags:
 - 테크크런치
 ---
 
-## TechCrunch Weekly Round Up 테크크런치 주간 종합
+## TechCrunch 11/10 Weekly Round Up 테크크런치 주간 종합
 
 ### 1. Singles' Day: China’s $25 billion shopping festival explained (광군제 : 중국의 250억 달러 쇼핑 축제)
 
