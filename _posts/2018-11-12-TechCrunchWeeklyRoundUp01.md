@@ -44,6 +44,6 @@ Netflix 와 HBO GO에 맞설 것이다.
 
 ### 7. Olho do Dono is the winner of Startup Battlefield Latin America (Olho do Dono는 스타트업 배틀필드 라틴 아메리카의 우승자이다)
 
-브라질 스터트업은 소 주인이 빈번하고 스트레스없는 방식으로 가축 무게를 모니터 할 수 있게 하면서 소 체중을 측정하는 이동식 3D 카메라 소프트웨어를 제공한다.
+브라질 스타트업은 소 주인이 빈번하고 스트레스없는 방식으로 가축 무게를 모니터 할 수 있게 하면서 소 체중을 측정하는 이동식 3D 카메라 소프트웨어를 제공한다.
 
 [7.기사보기](https://techcrunch.com/2018/11/08/startup-battlefield-latin-america-olho-do-dono/?utm_medium=TCnewsletter)
