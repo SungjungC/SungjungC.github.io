@@ -176,7 +176,7 @@ tags:
 - 대기 상태에서 같은 입출력을 요구한 프로세스끼리 모아놓음.
 - 여러 개의 프로세스 제어 블록을 동시에 꺼내 준비 상태로 옮김
 
-![프로세스 상태와 다중큐](/Users/choisungjung/SungjungC.github.io/_posts/프로세스상태와다중큐.png)
+![프로세스 상태와 다중 큐](/Users/choisungjung/Desktop/프로세스상태와다중큐.png)
 
 # 04 스케줄링 알고리즘
 
